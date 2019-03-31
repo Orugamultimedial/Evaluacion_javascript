@@ -1,4 +1,4 @@
-var Calculadora={
+ Calculadora={
   valor:"0",
   valorTemp:"0",
   signo:"",
